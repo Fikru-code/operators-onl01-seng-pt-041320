@@ -1,4 +1,4 @@
-def unsafe?(speed)
+def unsafe?(speed)= 40 or above 60
 
 end
 
